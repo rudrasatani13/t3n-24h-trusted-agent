@@ -1,0 +1,17 @@
+{
+  "name": "t3n-24h-trusted-agent",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "quickstart": "tsx quickstart.ts",
+    "agent": "tsx agent.ts"
+  },
+  "dependencies": {
+    "@terminal3/t3n-sdk": "5.2.0",
+    "tsx": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^26.5.1",
+    "typescript": "^7.0.2"
+  }
+}
